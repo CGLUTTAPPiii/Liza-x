@@ -5,7 +5,7 @@ l<a href="https://bit.ly/3koZRGY"><img src="Liza-x.jpg" alt="google-font" border
 
 <div align="center">
 
-## [![Liza-x](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Liza-x+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Liza-x](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Liza-x+WA+Bot+repo;Created+by+CG+LUTTAPPiii;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
