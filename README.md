@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/Luttappi">Luttappi</a> to make it
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CGLUTTAPPiii&show_icons=true&theme=dark&locale=en" alt="CGLUTTAPPiii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CGLUTTAPPiii&theme=dark" alt="CGLUTTAPPiii" /></p>
 </p>
 
 
@@ -98,7 +98,7 @@ By establishing the Liza-x, you are deemed to have accepted these responsibiliti
 ## Developers
   <div align="center">
     
-  [![Luttappi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Luttappi](https://github.com/CGLUTTAPPiii.png?size=100)](https://github.com/CGLUTTAPPiii) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
 [A
   </div>
